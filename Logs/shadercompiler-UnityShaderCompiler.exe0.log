@@ -2,5 +2,3 @@ Base path: 'D:/Study/Unity/2022.3.42f1c1/Editor/Data', plugins path 'D:/Study/Un
 Cmd: initializeCompiler
 
 Cmd: shutdown
-
-Quitting shader compiler process
